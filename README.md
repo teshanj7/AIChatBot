@@ -20,3 +20,7 @@ Repository for an AI powered chatbot made for my own JavaScript practice as a so
   <li>Coding Nepal - https://www.codingnepalweb.com </li>
 </ul>
 
+<h2>Screenshots :</h2>
+<ul>
+  <li>Offline Mode - ![Screenshot (368)](https://github.com/teshanj7/AIChatBot/assets/132120943/3f67f9c9-380c-4dd9-be39-c4983ce06362)</li>
+</ul>
