@@ -31,3 +31,6 @@ Repository for an AI powered chatbot made for my own JavaScript practice as a so
   <li>Chatbot Demonstration - </li>
 </ul>
 
+![Screenshot (366)](https://github.com/teshanj7/AIChatBot/assets/132120943/cfdb6116-668f-467f-b552-c3b9d8dbbfdb)
+![Screenshot (367)](https://github.com/teshanj7/AIChatBot/assets/132120943/701fee57-cebd-4ed4-9d1d-fe9e30dd7393)
+
