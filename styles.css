@@ -110,6 +110,11 @@ body{
     white-space: pre-wrap;
 }
 
+.chatbox .chat p.error {
+    color: red;
+    background: wheat;
+}
+
 .chatbox .incoming p {
     color: #000;
     background: #f2f2f2;
