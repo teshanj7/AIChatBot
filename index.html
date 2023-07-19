@@ -10,10 +10,16 @@
 
     <script src="script.js" defer></script>
 </head>
-<body>
+<body class="show-chatbot">
+    <button class="chatbot-toggler">
+        <span class="material-symbols-outlined">mode_comment</span>
+        <span class="material-symbols-outlined">close</span>
+
+    </button>
     <div class="chatbot">
         <header>
             <h2>Chatbot</h2>
+            <span class="material-symbols-outlined">close</span>
         </header>
         <ul class="chatbox">
             <li class="chat incoming">
@@ -26,7 +32,7 @@
             </li>
         </ul>
         <div class="chat-input">
-            <textarea placeholder="Enter a message"></textarea>
+            <textarea placeholder="Enter a message" required></textarea>
             <span id="send-btn" class="material-symbols-outlined">send</span>
         </div>
 
