@@ -1,2 +1,36 @@
 # AIChatBot
-Repository for an AI Chatbot
+Repository for an AI powered chatbot made for my own JavaScript practice as a solo project.
+
+<p>This AI Chatbot is powered by the OpenAI API which is owned by OpenAI. This chatbot is a fully functional chatbot which will answer your questions accordingly in an efficient manner. You will have to have a good internet connection to use this bot and the OpenAI API is not free after a some months of use so you will have to pay to use it further. It can also be integrated easily to another project to have the chatbot functionality. </p>
+
+<h2>Contributors</h2>
+<ul>
+  <li>Teshan Jayakody</li>
+</ul>
+
+<h2>Technologies Used :</h2>
+<ul>
+  <li>HTML, CSS, JavaScript, PHP</li>
+  <li>OpenAi API</li>
+  <li>IDE : Visual Studio Code</li>
+</ul>
+
+<h2>Inspired By :</h2>
+<ul>
+  <li>Coding Nepal - https://www.codingnepalweb.com </li>
+</ul>
+
+<h2>Screenshots :</h2>
+<ul>
+  <li>Offline Mode - </li>
+</ul>
+
+![Screenshot (368)](https://github.com/teshanj7/AIChatBot/assets/132120943/3f67f9c9-380c-4dd9-be39-c4983ce06362)
+
+<ul>
+  <li>Chatbot Demonstration - </li>
+</ul>
+
+![Screenshot (366)](https://github.com/teshanj7/AIChatBot/assets/132120943/cfdb6116-668f-467f-b552-c3b9d8dbbfdb)
+![Screenshot (367)](https://github.com/teshanj7/AIChatBot/assets/132120943/701fee57-cebd-4ed4-9d1d-fe9e30dd7393)
+
