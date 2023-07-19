@@ -1,6 +1,7 @@
 const chatInput = document.querySelector(".chat-input textarea");
 const sendChatBtn = document.querySelector(".chat-input span");
 const chatbox = document.querySelector(".chatbox");
+const chatbotToggler = document.querySelector(".chatbot-toggler");
 
 let userMessage;
 const API_KEY = "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";
@@ -72,5 +73,7 @@ const handleChat = () =>{
         generateResponse(incomingChatLi);
     }, 600);
 }
+
+chatbotToggler.addEventListener("click", () => document.body.classList.toggle("show-chatbot"));
 
 sendChatBtn.addEventListener("click", handleChat);
