@@ -80,6 +80,7 @@ body{
     color: #fff;
     cursor: pointer;
     transform: translateY(-50%);
+    display: none;
 }
 
 .chatbot .chatbox {
@@ -172,5 +173,9 @@ body{
 
     .chatbot .chatbox{
         height: 90%;
+    }
+
+    .chatbot header span{
+        display: block;
     }
 }
