@@ -10,7 +10,7 @@ Repository for an AI powered chatbot made for my own JavaScript practice as a so
 
 <h2>Technologies Used :</h2>
 <ul>
-  <li>HTML, CSS, JavaScript, PHP</li>
+  <li>HTML, CSS, JavaScript</li>
   <li>OpenAi API</li>
   <li>IDE : Visual Studio Code</li>
 </ul>
