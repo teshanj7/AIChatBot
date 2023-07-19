@@ -25,12 +25,12 @@ Repository for an AI powered chatbot made for my own JavaScript practice as a so
   <li>Offline Mode - </li>
 </ul>
 
-![Screenshot (368)](https://github.com/teshanj7/AIChatBot/assets/132120943/3f67f9c9-380c-4dd9-be39-c4983ce06362)
+![offline](./screenshots/offline.png)
 
 <ul>
   <li>Chatbot Demonstration - </li>
 </ul>
 
-![Screenshot (366)](https://github.com/teshanj7/AIChatBot/assets/132120943/cfdb6116-668f-467f-b552-c3b9d8dbbfdb)
-![Screenshot (367)](https://github.com/teshanj7/AIChatBot/assets/132120943/701fee57-cebd-4ed4-9d1d-fe9e30dd7393)
+![online1](./screenshots/online1.png)
+![online2](./screenshots/online2.png)
 
